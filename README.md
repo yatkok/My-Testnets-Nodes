@@ -2,12 +2,12 @@
 
 ## Network Projects:
 
--Minima
--Sui
--Stride
--Quicksilver
--Bundlr
--Teritori
+- Minima
+- Sui
+- Stride
+- Quicksilver
+- Bundlr
+- Teritori
 
 ## Social Media:
 [Twitter](https://twitter.com/cryptoyatko).
