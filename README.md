@@ -1,6 +1,6 @@
-## Katıldığım projeler:
+## Projects I Participated:
 
-# Ağ projeleri:
+# Network Projects:
 
 -Minima
 -Sui
