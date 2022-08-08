@@ -1,6 +1,6 @@
-## Projects I Participated:
+# Projects I Participated:
 
-# Network Projects:
+## Network Projects:
 
 -Minima
 -Sui
@@ -9,7 +9,7 @@
 -Bundlr
 -Teritori
 
-# Social Media
+## Social Media:
 [Twitter](https://twitter.com/cryptoyatko).
 [Discord](yatko.k110#0492).
 [instagram](https://www.instagram.com/yatko_k/).
