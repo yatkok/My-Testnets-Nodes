@@ -9,6 +9,7 @@
 - Empower
 - Newrl
 - Zeeka
+- WormHolesChain
 
 ## Social Media:
 [Twitter](https://twitter.com/cryptoyatko).
