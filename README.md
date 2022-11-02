@@ -6,8 +6,9 @@
 - Sui
 - Stride
 - Quicksilver
-- Bundlr
-- Teritori
+- Empower
+- Newrl
+- Zeeka
 
 ## Social Media:
 [Twitter](https://twitter.com/cryptoyatko).
